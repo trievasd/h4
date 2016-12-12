@@ -1,0 +1,215 @@
+==> /home/xubuntu/.bash_history <==
+sudo apt-get install gimp
+
+==> /var/log/auth.log <==
+Dec 12 15:42:43 xubuntu sudo:  xubuntu : TTY=pts/1 ; PWD=/etc/puppet ; USER=root ; COMMAND=/bin/nano puppet.conf
+Dec 12 15:42:43 xubuntu sudo: pam_unix(sudo:session): session opened for user root by xubuntu(uid=0)
+Dec 12 15:42:53 xubuntu sudo: pam_unix(sudo:session): session closed for user root
+Dec 12 15:42:56 xubuntu sudo:  xubuntu : TTY=pts/6 ; PWD=/home/xubuntu/.puppet/manifests ; USER=root ; COMMAND=/bin/nano site.pp
+Dec 12 15:42:56 xubuntu sudo: pam_unix(sudo:session): session opened for user root by xubuntu(uid=0)
+Dec 12 15:43:09 xubuntu sudo: pam_unix(sudo:session): session closed for user root
+Dec 12 15:43:11 xubuntu sudo:  xubuntu : TTY=pts/6 ; PWD=/home/xubuntu/.puppet/manifests ; USER=root ; COMMAND=/usr/bin/puppet apply /home/xubuntu/.puppet/manifests/site.pp
+Dec 12 15:43:11 xubuntu sudo: pam_unix(sudo:session): session opened for user root by xubuntu(uid=0)
+Dec 12 15:43:12 xubuntu sudo: pam_unix(sudo:session): session closed for user root
+Dec 12 15:43:32 xubuntu sudo:  xubuntu : TTY=pts/6 ; PWD=/home/xubuntu/.puppet/manifests ; USER=root ; COMMAND=/usr/bin/puppet apply /home/xubuntu/.puppet/manifests/site.pp
+Dec 12 15:43:32 xubuntu sudo: pam_unix(sudo:session): session opened for user root by xubuntu(uid=0)
+Dec 12 15:43:33 xubuntu sudo: pam_unix(sudo:session): session closed for user root
+Dec 12 15:43:59 xubuntu sudo:  xubuntu : TTY=pts/1 ; PWD=/etc/puppet ; USER=root ; COMMAND=/bin/nano puppet.conf
+Dec 12 15:43:59 xubuntu sudo: pam_unix(sudo:session): session opened for user root by xubuntu(uid=0)
+Dec 12 15:44:01 xubuntu sudo: pam_unix(sudo:session): session closed for user root
+Dec 12 15:44:04 xubuntu sudo:  xubuntu : TTY=pts/6 ; PWD=/home/xubuntu/.puppet/manifests ; USER=root ; COMMAND=/bin/nano site.pp
+Dec 12 15:44:04 xubuntu sudo: pam_unix(sudo:session): session opened for user root by xubuntu(uid=0)
+Dec 12 15:44:10 xubuntu sudo: pam_unix(sudo:session): session closed for user root
+Dec 12 15:44:11 xubuntu sudo:  xubuntu : TTY=pts/6 ; PWD=/home/xubuntu/.puppet/manifests ; USER=root ; COMMAND=/usr/bin/puppet apply /home/xubuntu/.puppet/manifests/site.pp
+Dec 12 15:44:11 xubuntu sudo: pam_unix(sudo:session): session opened for user root by xubuntu(uid=0)
+Dec 12 15:44:12 xubuntu sudo: pam_unix(sudo:session): session closed for user root
+Dec 12 15:44:22 xubuntu sudo:  xubuntu : TTY=pts/6 ; PWD=/home/xubuntu/.puppet/manifests ; USER=root ; COMMAND=/bin/nano site.pp
+Dec 12 15:44:22 xubuntu sudo: pam_unix(sudo:session): session opened for user root by xubuntu(uid=0)
+Dec 12 15:44:26 xubuntu sudo:  xubuntu : TTY=pts/1 ; PWD=/etc/puppet ; USER=root ; COMMAND=/bin/nano puppet.conf
+Dec 12 15:44:26 xubuntu sudo: pam_unix(sudo:session): session opened for user root by xubuntu(uid=0)
+Dec 12 15:44:41 xubuntu sudo: pam_unix(sudo:session): session closed for user root
+Dec 12 15:44:43 xubuntu sudo: pam_unix(sudo:session): session closed for user root
+Dec 12 15:44:45 xubuntu sudo:  xubuntu : TTY=pts/6 ; PWD=/home/xubuntu/.puppet/manifests ; USER=root ; COMMAND=/usr/bin/puppet apply /home/xubuntu/.puppet/manifests/site.pp
+Dec 12 15:44:45 xubuntu sudo: pam_unix(sudo:session): session opened for user root by xubuntu(uid=0)
+Dec 12 15:44:46 xubuntu sudo: pam_unix(sudo:session): session closed for user root
+Dec 12 15:46:12 xubuntu sudo:  xubuntu : TTY=pts/1 ; PWD=/etc/puppet ; USER=root ; COMMAND=/bin/nano puppet.conf
+Dec 12 15:46:12 xubuntu sudo: pam_unix(sudo:session): session opened for user root by xubuntu(uid=0)
+Dec 12 15:46:23 xubuntu sudo: pam_unix(sudo:session): session closed for user root
+Dec 12 15:46:25 xubuntu sudo:  xubuntu : TTY=pts/6 ; PWD=/home/xubuntu/.puppet/manifests ; USER=root ; COMMAND=/usr/bin/puppet apply /home/xubuntu/.puppet/manifests/site.pp
+Dec 12 15:46:25 xubuntu sudo: pam_unix(sudo:session): session opened for user root by xubuntu(uid=0)
+Dec 12 15:46:26 xubuntu sudo: pam_unix(sudo:session): session closed for user root
+Dec 12 15:46:29 xubuntu sudo:  xubuntu : TTY=pts/6 ; PWD=/home/xubuntu/.puppet/manifests ; USER=root ; COMMAND=/bin/nano site.pp
+Dec 12 15:46:29 xubuntu sudo: pam_unix(sudo:session): session opened for user root by xubuntu(uid=0)
+Dec 12 15:46:34 xubuntu sudo: pam_unix(sudo:session): session closed for user root
+Dec 12 15:46:35 xubuntu sudo:  xubuntu : TTY=pts/6 ; PWD=/home/xubuntu/.puppet/manifests ; USER=root ; COMMAND=/usr/bin/puppet apply /home/xubuntu/.puppet/manifests/site.pp
+Dec 12 15:46:35 xubuntu sudo: pam_unix(sudo:session): session opened for user root by xubuntu(uid=0)
+Dec 12 15:46:36 xubuntu sudo: pam_unix(sudo:session): session closed for user root
+Dec 12 15:48:27 xubuntu sudo:  xubuntu : TTY=pts/1 ; PWD=/etc/puppet ; USER=root ; COMMAND=/bin/rm -r manifests/
+Dec 12 15:48:27 xubuntu sudo: pam_unix(sudo:session): session opened for user root by xubuntu(uid=0)
+Dec 12 15:48:27 xubuntu sudo: pam_unix(sudo:session): session closed for user root
+Dec 12 15:48:38 xubuntu sudo:  xubuntu : TTY=pts/6 ; PWD=/home/xubuntu/.puppet ; USER=root ; COMMAND=/bin/mv manifests/ /etc/puppet/
+Dec 12 15:48:38 xubuntu sudo: pam_unix(sudo:session): session opened for user root by xubuntu(uid=0)
+Dec 12 15:48:38 xubuntu sudo: pam_unix(sudo:session): session closed for user root
+Dec 12 15:48:49 xubuntu sudo:  xubuntu : TTY=pts/1 ; PWD=/etc/puppet ; USER=root ; COMMAND=/bin/rm -r modules/
+Dec 12 15:48:49 xubuntu sudo: pam_unix(sudo:session): session opened for user root by xubuntu(uid=0)
+Dec 12 15:48:49 xubuntu sudo: pam_unix(sudo:session): session closed for user root
+Dec 12 15:48:50 xubuntu sudo:  xubuntu : TTY=pts/6 ; PWD=/home/xubuntu/.puppet ; USER=root ; COMMAND=/bin/mv modules/ /etc/puppet/
+Dec 12 15:48:50 xubuntu sudo: pam_unix(sudo:session): session opened for user root by xubuntu(uid=0)
+Dec 12 15:48:50 xubuntu sudo: pam_unix(sudo:session): session closed for user root
+Dec 12 15:48:58 xubuntu sudo:  xubuntu : TTY=pts/6 ; PWD=/home/xubuntu/.puppet ; USER=root ; COMMAND=/bin/mv var/ /etc/puppet/
+Dec 12 15:48:58 xubuntu sudo: pam_unix(sudo:session): session opened for user root by xubuntu(uid=0)
+Dec 12 15:48:58 xubuntu sudo: pam_unix(sudo:session): session closed for user root
+Dec 12 15:49:14 xubuntu sudo:  xubuntu : TTY=pts/1 ; PWD=/etc/puppet ; USER=root ; COMMAND=/usr/bin/puppet apply /etc/puppet/manifests/site.pp
+Dec 12 15:49:14 xubuntu sudo: pam_unix(sudo:session): session opened for user root by xubuntu(uid=0)
+Dec 12 15:49:15 xubuntu sudo: pam_unix(sudo:session): session closed for user root
+Dec 12 15:49:48 xubuntu sudo:  xubuntu : TTY=pts/6 ; PWD=/etc/puppet/modules/motd/templates ; USER=root ; COMMAND=/bin/nano motd.erb
+Dec 12 15:49:48 xubuntu sudo: pam_unix(sudo:session): session opened for user root by xubuntu(uid=0)
+Dec 12 15:50:02 xubuntu sudo: pam_unix(sudo:session): session closed for user root
+Dec 12 15:50:04 xubuntu sudo:  xubuntu : TTY=pts/1 ; PWD=/etc/puppet ; USER=root ; COMMAND=/usr/bin/puppet apply /etc/puppet/manifests/site.pp
+Dec 12 15:50:04 xubuntu sudo: pam_unix(sudo:session): session opened for user root by xubuntu(uid=0)
+Dec 12 15:50:05 xubuntu sudo: pam_unix(sudo:session): session closed for user root
+Dec 12 15:50:11 xubuntu sudo:  xubuntu : TTY=pts/6 ; PWD=/etc/puppet/modules/motd/templates ; USER=root ; COMMAND=/bin/nano motd.erb
+Dec 12 15:50:11 xubuntu sudo: pam_unix(sudo:session): session opened for user root by xubuntu(uid=0)
+Dec 12 15:50:41 xubuntu sudo: pam_unix(sudo:session): session closed for user root
+Dec 12 15:50:44 xubuntu sudo:  xubuntu : TTY=pts/1 ; PWD=/etc/puppet ; USER=root ; COMMAND=/usr/bin/puppet apply /etc/puppet/manifests/site.pp
+Dec 12 15:50:44 xubuntu sudo: pam_unix(sudo:session): session opened for user root by xubuntu(uid=0)
+Dec 12 15:50:45 xubuntu sudo: pam_unix(sudo:session): session closed for user root
+Dec 12 15:50:51 xubuntu sudo:  xubuntu : TTY=pts/6 ; PWD=/etc/puppet/modules/motd/templates ; USER=root ; COMMAND=/bin/nano motd.erb
+Dec 12 15:50:51 xubuntu sudo: pam_unix(sudo:session): session opened for user root by xubuntu(uid=0)
+Dec 12 15:50:57 xubuntu sudo: pam_unix(sudo:session): session closed for user root
+Dec 12 15:50:59 xubuntu sudo:  xubuntu : TTY=pts/1 ; PWD=/etc/puppet ; USER=root ; COMMAND=/usr/bin/puppet apply /etc/puppet/manifests/site.pp
+Dec 12 15:50:59 xubuntu sudo: pam_unix(sudo:session): session opened for user root by xubuntu(uid=0)
+Dec 12 15:51:00 xubuntu sudo: pam_unix(sudo:session): session closed for user root
+Dec 12 15:51:04 xubuntu sudo:  xubuntu : TTY=pts/6 ; PWD=/etc/puppet/modules/motd/templates ; USER=root ; COMMAND=/bin/nano motd.erb
+Dec 12 15:51:04 xubuntu sudo: pam_unix(sudo:session): session opened for user root by xubuntu(uid=0)
+Dec 12 15:51:15 xubuntu sudo: pam_unix(sudo:session): session closed for user root
+Dec 12 15:51:17 xubuntu sudo:  xubuntu : TTY=pts/1 ; PWD=/etc/puppet ; USER=root ; COMMAND=/usr/bin/puppet apply /etc/puppet/manifests/site.pp
+Dec 12 15:51:17 xubuntu sudo: pam_unix(sudo:session): session opened for user root by xubuntu(uid=0)
+Dec 12 15:51:18 xubuntu sudo: pam_unix(sudo:session): session closed for user root
+Dec 12 15:51:34 xubuntu login[7871]: pam_unix(login:session): session opened for user xubuntu by LOGIN(uid=0)
+Dec 12 15:51:34 xubuntu systemd-logind[4341]: New session 2 of user xubuntu.
+Dec 12 15:53:28 xubuntu sudo:  xubuntu : TTY=pts/1 ; PWD=/etc/puppet ; USER=root ; COMMAND=/bin/nano puppet.conf
+Dec 12 15:53:28 xubuntu sudo: pam_unix(sudo:session): session opened for user root by xubuntu(uid=0)
+Dec 12 15:55:43 xubuntu sudo: pam_unix(sudo:session): session closed for user root
+Dec 12 15:59:18 xubuntu sudo:  xubuntu : TTY=pts/7 ; PWD=/home/xubuntu ; USER=root ; COMMAND=/usr/bin/apt-get install fbcat
+Dec 12 15:59:18 xubuntu sudo: pam_unix(sudo:session): session opened for user root by xubuntu(uid=0)
+Dec 12 15:59:19 xubuntu sudo: pam_unix(sudo:session): session closed for user root
+Dec 12 15:59:37 xubuntu sudo:  xubuntu : TTY=tty2 ; PWD=/home/xubuntu ; USER=root ; COMMAND=/usr/bin/fbcat
+Dec 12 15:59:37 xubuntu sudo: pam_unix(sudo:session): session opened for user root by xubuntu(uid=0)
+Dec 12 15:59:39 xubuntu sudo: pam_unix(sudo:session): session closed for user root
+Dec 12 16:00:12 xubuntu sudo:  xubuntu : TTY=tty2 ; PWD=/home/xubuntu ; USER=root ; COMMAND=/usr/bin/fbcat
+Dec 12 16:00:12 xubuntu sudo: pam_unix(sudo:session): session opened for user root by xubuntu(uid=0)
+Dec 12 16:00:14 xubuntu sudo: pam_unix(sudo:session): session closed for user root
+Dec 12 16:12:17 xubuntu sudo:  xubuntu : TTY=pts/7 ; PWD=/home/xubuntu ; USER=root ; COMMAND=/usr/bin/tail --lines=100 /home/xubuntu/.bash_history /var/log/auth.log /var/log/apache2/*.log /var/log/syslog /var/log/installer/syslog /proc/uptime /etc/lsb-release
+Dec 12 16:12:17 xubuntu sudo: pam_unix(sudo:session): session opened for user root by xubuntu(uid=0)
+
+==> /var/log/syslog <==
+Dec 12 15:21:57 xubuntu systemd[1]: Started CUPS Scheduler.
+Dec 12 15:21:57 xubuntu systemd[1]: Started ACPI event daemon.
+Dec 12 15:21:57 xubuntu systemd[1]: Reloading.
+Dec 12 15:21:57 xubuntu systemd[1]: apt-daily.timer: Adding 8h 16min 30.096424s random time.
+Dec 12 15:21:57 xubuntu systemd[1]: snapd.refresh.timer: Adding 1h 7min 49.736438s random time.
+Dec 12 15:21:57 xubuntu systemd[1]: Started CUPS Scheduler.
+Dec 12 15:21:57 xubuntu systemd[1]: Started ACPI event daemon.
+Dec 12 15:21:57 xubuntu systemd[1]: Reloading.
+Dec 12 15:21:57 xubuntu systemd[1]: apt-daily.timer: Adding 11h 18.657442s random time.
+Dec 12 15:21:57 xubuntu systemd[1]: snapd.refresh.timer: Adding 4h 16min 29.747763s random time.
+Dec 12 15:21:57 xubuntu systemd[1]: Started CUPS Scheduler.
+Dec 12 15:21:57 xubuntu systemd[1]: Started ACPI event daemon.
+Dec 12 15:21:57 xubuntu systemd[1]: Starting Puppet agent...
+Dec 12 15:21:58 xubuntu puppet-agent[7701]: Reopening log files
+Dec 12 15:21:58 xubuntu systemd[1]: Started Puppet agent.
+Dec 12 15:21:58 xubuntu systemd[1]: Reloading.
+Dec 12 15:21:58 xubuntu systemd[1]: apt-daily.timer: Adding 10h 48min 25.026861s random time.
+Dec 12 15:21:58 xubuntu systemd[1]: snapd.refresh.timer: Adding 24min 21.279494s random time.
+Dec 12 15:21:58 xubuntu systemd[1]: Started CUPS Scheduler.
+Dec 12 15:21:58 xubuntu systemd[1]: Started ACPI event daemon.
+Dec 12 15:21:58 xubuntu puppet-agent[7701]: Could not request certificate: Failed to open TCP connection to puppet:8140 (getaddrinfo: Name or service not known)
+Dec 12 15:23:58 xubuntu puppet-agent[7701]: Could not request certificate: Failed to open TCP connection to puppet:8140 (getaddrinfo: Name or service not known)
+Dec 12 15:27:58 xubuntu puppet-agent[7701]: message repeated 2 times: [ Could not request certificate: Failed to open TCP connection to puppet:8140 (getaddrinfo: Name or service not known)]
+Dec 12 15:28:29 xubuntu systemd[1]: Started Session 1 of user xubuntu.
+Dec 12 15:28:35 xubuntu systemd[1]: Started Getty on tty2.
+Dec 12 15:28:36 xubuntu systemd[1]: Started Getty on tty3.
+Dec 12 15:28:36 xubuntu systemd[1]: Started Getty on tty4.
+Dec 12 15:28:37 xubuntu systemd[1]: Started Getty on tty5.
+Dec 12 15:28:37 xubuntu systemd[1]: Started Getty on tty6.
+Dec 12 15:29:58 xubuntu puppet-agent[7701]: Could not request certificate: Failed to open TCP connection to puppet:8140 (getaddrinfo: Name or service not known)
+Dec 12 15:31:58 xubuntu puppet-agent[7701]: Could not request certificate: Failed to open TCP connection to puppet:8140 (getaddrinfo: Name or service not known)
+Dec 12 15:33:25 xubuntu dbus[4322]: [system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service'
+Dec 12 15:33:25 xubuntu systemd[1]: Starting Hostname Service...
+Dec 12 15:33:25 xubuntu dbus[4322]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Dec 12 15:33:25 xubuntu systemd[1]: Started Hostname Service.
+Dec 12 15:33:25 xubuntu org.gtk.vfs.Daemon[4676]: ** (process:9495): WARNING **: Couldn't create directory monitor on smb://x-gnome-default-workgroup/. Error: Operation not supported by backend
+Dec 12 15:33:58 xubuntu puppet-agent[7701]: Could not request certificate: Failed to open TCP connection to puppet:8140 (getaddrinfo: Name or service not known)
+Dec 12 15:35:10 xubuntu systemd[1]: Starting Cleanup of Temporary Directories...
+Dec 12 15:35:10 xubuntu systemd-tmpfiles[9536]: [/usr/lib/tmpfiles.d/var.conf:14] Duplicate line for path "/var/log", ignoring.
+Dec 12 15:35:10 xubuntu systemd[1]: Started Cleanup of Temporary Directories.
+Dec 12 15:35:58 xubuntu puppet-agent[7701]: Could not request certificate: Failed to open TCP connection to puppet:8140 (getaddrinfo: Name or service not known)
+Dec 12 15:37:58 xubuntu puppet-agent[7701]: Could not request certificate: Failed to open TCP connection to puppet:8140 (getaddrinfo: Name or service not known)
+Dec 12 15:38:40 xubuntu dbus[4322]: [system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service'
+Dec 12 15:38:40 xubuntu systemd[1]: Starting Hostname Service...
+Dec 12 15:38:40 xubuntu dbus[4322]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Dec 12 15:38:40 xubuntu systemd[1]: Started Hostname Service.
+Dec 12 15:39:58 xubuntu puppet-agent[7701]: Could not request certificate: Failed to open TCP connection to puppet:8140 (getaddrinfo: Name or service not known)
+Dec 12 15:41:58 xubuntu puppet-agent[7701]: Could not request certificate: Failed to open TCP connection to puppet:8140 (getaddrinfo: Name or service not known)
+Dec 12 15:43:58 xubuntu puppet-agent[7701]: Could not request certificate: Failed to open TCP connection to puppet:8140 (getaddrinfo: Name or service not known)
+Dec 12 15:45:58 xubuntu puppet-agent[7701]: Could not request certificate: Failed to open TCP connection to puppet:8140 (getaddrinfo: Name or service not known)
+Dec 12 15:47:58 xubuntu puppet-agent[7701]: Could not request certificate: Failed to open TCP connection to puppet:8140 (getaddrinfo: Name or service not known)
+Dec 12 15:49:36 xubuntu dhclient[5653]: DHCPREQUEST of 192.168.1.101 on enp6s0 to 192.168.1.1 port 67 (xid=0x22750595)
+Dec 12 15:49:36 xubuntu dhclient[5653]: DHCPACK of 192.168.1.101 from 192.168.1.254
+Dec 12 15:49:36 xubuntu NetworkManager[4344]: <info>  [1481557776.8425]   address 192.168.1.101
+Dec 12 15:49:36 xubuntu NetworkManager[4344]: <info>  [1481557776.8426]   plen 24 (255.255.255.0)
+Dec 12 15:49:36 xubuntu dhclient[5653]: bound to 192.168.1.101 -- renewal in 1734 seconds.
+Dec 12 15:49:36 xubuntu NetworkManager[4344]: <info>  [1481557776.8426]   gateway 192.168.1.1
+Dec 12 15:49:36 xubuntu NetworkManager[4344]: <info>  [1481557776.8426]   server identifier 192.168.1.1
+Dec 12 15:49:36 xubuntu NetworkManager[4344]: <info>  [1481557776.8426]   lease time 3600
+Dec 12 15:49:36 xubuntu NetworkManager[4344]: <info>  [1481557776.8427]   nameserver '192.168.1.1'
+Dec 12 15:49:36 xubuntu NetworkManager[4344]: <info>  [1481557776.8427]   domain name 'lan'
+Dec 12 15:49:36 xubuntu NetworkManager[4344]: <info>  [1481557776.8427] dhcp4 (enp6s0): state changed bound -> bound
+Dec 12 15:49:36 xubuntu dbus[4322]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+Dec 12 15:49:36 xubuntu systemd[1]: Starting Network Manager Script Dispatcher Service...
+Dec 12 15:49:36 xubuntu dbus[4322]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Dec 12 15:49:36 xubuntu systemd[1]: Started Network Manager Script Dispatcher Service.
+Dec 12 15:49:36 xubuntu nm-dispatcher: req:1 'dhcp4-change' [enp6s0]: new request (1 scripts)
+Dec 12 15:49:36 xubuntu nm-dispatcher: req:1 'dhcp4-change' [enp6s0]: start running ordered scripts...
+Dec 12 15:49:58 xubuntu puppet-agent[7701]: Could not request certificate: Failed to open TCP connection to puppet:8140 (getaddrinfo: Name or service not known)
+Dec 12 15:51:34 xubuntu systemd[1]: Started Session 2 of user xubuntu.
+Dec 12 15:51:58 xubuntu puppet-agent[7701]: Could not request certificate: Failed to open TCP connection to puppet:8140 (getaddrinfo: Name or service not known)
+Dec 12 15:53:50 xubuntu dbus[4322]: [system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service'
+Dec 12 15:53:50 xubuntu systemd[1]: Starting Hostname Service...
+Dec 12 15:53:50 xubuntu dbus[4322]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Dec 12 15:53:50 xubuntu systemd[1]: Started Hostname Service.
+Dec 12 15:53:58 xubuntu puppet-agent[7701]: Could not request certificate: Failed to open TCP connection to puppet:8140 (getaddrinfo: Name or service not known)
+Dec 12 15:55:58 xubuntu puppet-agent[7701]: Could not request certificate: Failed to open TCP connection to puppet:8140 (getaddrinfo: Name or service not known)
+Dec 12 15:57:58 xubuntu puppet-agent[7701]: Could not request certificate: Failed to open TCP connection to puppet:8140 (getaddrinfo: Name or service not known)
+Dec 12 15:59:58 xubuntu puppet-agent[7701]: Could not request certificate: Failed to open TCP connection to puppet:8140 (getaddrinfo: Name or service not known)
+Dec 12 16:00:34 xubuntu dbus[4322]: [system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service'
+Dec 12 16:00:34 xubuntu systemd[1]: Starting Hostname Service...
+Dec 12 16:00:34 xubuntu dbus[4322]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Dec 12 16:00:34 xubuntu systemd[1]: Started Hostname Service.
+Dec 12 16:01:58 xubuntu puppet-agent[7701]: Could not request certificate: Failed to open TCP connection to puppet:8140 (getaddrinfo: Name or service not known)
+Dec 12 16:02:34 xubuntu dbus[4322]: [system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service'
+Dec 12 16:02:34 xubuntu systemd[1]: Starting Hostname Service...
+Dec 12 16:02:34 xubuntu dbus[4322]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Dec 12 16:02:34 xubuntu systemd[1]: Started Hostname Service.
+Dec 12 16:03:58 xubuntu puppet-agent[7701]: Could not request certificate: Failed to open TCP connection to puppet:8140 (getaddrinfo: Name or service not known)
+Dec 12 16:04:09 xubuntu dbus[4322]: [system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service'
+Dec 12 16:04:09 xubuntu systemd[1]: Starting Hostname Service...
+Dec 12 16:04:09 xubuntu dbus[4322]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Dec 12 16:04:09 xubuntu systemd[1]: Started Hostname Service.
+Dec 12 16:05:58 xubuntu puppet-agent[7701]: Could not request certificate: Failed to open TCP connection to puppet:8140 (getaddrinfo: Name or service not known)
+Dec 12 16:07:02 xubuntu dbus[4322]: [system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service'
+Dec 12 16:07:02 xubuntu systemd[1]: Starting Hostname Service...
+Dec 12 16:07:03 xubuntu dbus[4322]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Dec 12 16:07:03 xubuntu systemd[1]: Started Hostname Service.
+Dec 12 16:07:58 xubuntu puppet-agent[7701]: Could not request certificate: Failed to open TCP connection to puppet:8140 (getaddrinfo: Name or service not known)
+Dec 12 16:11:58 xubuntu puppet-agent[7701]: message repeated 2 times: [ Could not request certificate: Failed to open TCP connection to puppet:8140 (getaddrinfo: Name or service not known)]
+
+==> /proc/uptime <==
+3147.08 11137.53
+
+==> /etc/lsb-release <==
+DISTRIB_ID=Ubuntu
+DISTRIB_RELEASE=16.04
+DISTRIB_CODENAME=xenial
+DISTRIB_DESCRIPTION="Ubuntu 16.04.1 LTS"
